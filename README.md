@@ -2,8 +2,6 @@
 
 A premium, dark-themed, responsive personal developer portfolio website designed to showcase my projects, skills, education, and certified achievements.
 
-Live Site: [https://github.com/Deekshith06452/PERSONAL_PORTFOLIO](https://github.com/Deekshith06452/PERSONAL_PORTFOLIO)
-
 ---
 
 ## 🚀 Features
